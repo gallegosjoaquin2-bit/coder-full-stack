@@ -1,0 +1,60 @@
+/*Estilo del body*/
+.pagina {
+    background-color: rgb(0, 128, 255);
+    color: #ffffff;
+    
+    font-family: 'Work Sans', Arial, sans-serif;
+}
+/*Estilos de los h1 */   
+.primerTitulo{  
+    color: #ffffff;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+/*Estilos de los h2 */
+.segundoTitulo {
+    color:#ffffff;
+    font-size: 1.75rem;
+    font-weight: 700;
+}
+/*Estilos de los "p" */
+.texto{
+    color:#ffffff ;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.6;
+}
+/*Estilos de los section */
+.seccionContenido{
+    background-color: #0035ba;
+    margin: 1rem 0;
+    padding:1.5rem;
+    border-radius: 12px;
+}
+/*Estilos del menu de navegacion*/
+.menu{
+    background-color: #0c2554;
+    margin: 1rem 0;
+    border-radius: 12px;
+    padding: 1rem;
+}
+.enlaceMenu{
+    color: #ffffff;
+    font-size: 1rem;    
+    font-weight: 700;
+    margin-right: 1rem;
+    text-decoration: none;
+}
+.enlaceMenu:hover{
+    color:rgb(255, 98, 0);
+}
+/*Estilos del Mail de contacto */
+.enlaceMail{
+    color: #ffffff;
+    font-weight: 700;
+    margin-right: 1.5rem;
+    text-decoration:none;
+}
+.enlaceMail:hover{
+    color:rgb(255, 98, 0);  
+}
